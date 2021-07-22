@@ -12,6 +12,6 @@
   "dependencies": {
     "axios": "^0.19.2",
     "puppeteer": "^4.0.0",
-    "xlsx": "^0.16.2"
+    "xlsx": "^0.17.0"
   }
 }
